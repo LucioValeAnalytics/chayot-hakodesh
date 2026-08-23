@@ -1,51 +1,100 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 👼 Chayot HaKodesh — 2026
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+**Chayot HaKodesh** é um projeto audiovisual experimental criado com o uso de Inteligência Artificial Generativa.
+
+A proposta inicial era simples: **representar um anjo trazendo o ano de 2026**.
+
+A partir dessa ideia, a IA generativa produziu uma figura angelical com **quatro asas (dois pares)**. Essa característica visual inspirou o nome do projeto, **Chayot HaKodesh**, referência às criaturas celestiais descritas na tradição judaica.
+
+O projeto combina geração de imagem por IA, animação e pós-produção digital para criar uma pequena experiência audiovisual.
+
+---
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+* **Meta AI** — geração da imagem a partir de prompt e animação da fotografia/imagem.
+* **Adobe Photoshop** — edição e pós-produção visual.
+* **GitHub** — versionamento e documentação do projeto.
+
+### 🎵 Trilha sonora
+
+**Kadosh — Barry & Batya Segal**
+
+A música é utilizada como trilha sonora do vídeo final e é creditada ao seu respectivo autor.
+
+---
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+### 1. Conceito
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+A ideia inicial foi criar uma representação visual de:
 
-### Exemplos e Insigths
+> **"Um anjo trazendo 2026."**
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+O prompt utilizado foi intencionalmente simples, permitindo que a Inteligência Artificial interpretasse livremente a proposta visual.
 
-## Links Interessantes
+### 2. Geração com IA
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+A imagem foi criada utilizando a **Meta AI**.
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Durante a geração, a IA produziu uma figura angelical com **quatro asas, organizadas em dois pares**.
+
+Esse elemento visual acabou se tornando parte central da identidade do projeto e levou à escolha do nome **Chayot HaKodesh**.
+
+### 3. Animação
+
+A imagem gerada foi posteriormente transformada em uma animação utilizando o recurso de animação de imagem da Meta AI, disponível no momento em que o projeto foi produzido.
+
+> A disponibilidade e as condições de uso dos recursos da Meta AI podem mudar ao longo do tempo.
+
+### 4. Pós-produção
+
+Após a geração e animação, o material passou por edição no **Adobe Photoshop**, incluindo ajustes visuais e composição para chegar ao resultado final.
+
+### 5. Resultado
+
+O material foi finalizado como um vídeo audiovisual curto, combinando a imagem gerada por IA, animação, edição e a trilha sonora **Kadosh**, de Barry & Batya Segal.
+
+---
+
+## 🚀 Resultado
+
+### 🎬 Chayot HaKodesh — 2026
+
+O resultado final é um vídeo curto que representa visualmente a chegada de 2026 através de uma figura angelical criada com auxílio de Inteligência Artificial Generativa.
+
+**Arquivos do projeto:**
+
+* Imagem gerada pela IA
+* Animação
+* Arquivo de edição do Photoshop
+* Vídeo final
+
+---
+
+## 💭 Reflexão
+
+O aspecto mais interessante do processo foi perceber como uma ideia extremamente simples pode ganhar características inesperadas quando interpretada por uma IA generativa.
+
+O prompt inicial não especificava quatro asas. Esse elemento surgiu durante a geração e acabou influenciando a interpretação artística e o próprio nome do projeto.
+
+Isso demonstra uma das características mais interessantes da criação com IA: **o resultado não é apenas a execução literal de uma instrução, mas também uma interação entre intenção humana, interpretação algorítmica e pós-produção criativa.**
+
+---
+
+## 📚 Sobre o desafio
+
+Este projeto foi desenvolvido como parte do **Lab "Natty or Not" da DIO**, cujo objetivo é explorar as possibilidades das Inteligências Artificiais Generativas na criação de conteúdos.
+
+A proposta aqui foi utilizar IA não apenas como ferramenta de geração, mas como parte de um processo criativo completo:
+
+**Ideia → IA Generativa → Animação → Pós-produção → Resultado Audiovisual**
+
+---
+
+### 👼 Chayot HaKodesh
+
+**Um anjo trazendo 2026.**
